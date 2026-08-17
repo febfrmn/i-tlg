@@ -1,0 +1,13 @@
+{
+  "loginId": "",
+  "passcode": "",
+  "email": "",
+  "imapPassword": "",
+  "facePhoto": "",
+
+  "deviceId": "",
+  "deviceModel": "",
+  "deviceBrand": "",
+  "tgBotToken": "",
+  "tgChatId": ""
+}

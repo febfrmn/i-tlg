@@ -1,0 +1,20 @@
+# Secrets — jangan pernah di-commit
+config.json
+token.json
+token-backup.json
+bot.env
+.env
+*.log
+.bot.pid
+.sync/
+accounts/
+selfie.jpg
+selfie.png
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
